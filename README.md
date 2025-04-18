@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0229-majority-element-ii) |
 | [0289-game-of-life](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0289-game-of-life) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2047-find-a-peak-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Math
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0289-game-of-life) |
+| [2047-find-a-peak-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +110,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0162-find-peak-element) |
+| [2047-find-a-peak-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
