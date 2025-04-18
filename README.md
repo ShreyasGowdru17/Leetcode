@@ -78,4 +78,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0696-count-binary-substrings](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0696-count-binary-substrings) |
+## String
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
