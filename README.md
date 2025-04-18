@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0146-lru-cache) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0696-count-binary-substrings](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0696-count-binary-substrings) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
