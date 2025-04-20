@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0394-decode-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0394-decode-string) |
 | [0696-count-binary-substrings](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0696-count-binary-substrings) |
 ## Design
 |  |
@@ -144,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0611-valid-triangle-number) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
