@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Math
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 ## Tree
 |  |
