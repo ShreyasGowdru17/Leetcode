@@ -9,36 +9,36 @@
  * }
  */
 class Solution {
+    public int countNodes(ListNode head){
+        int count=0;
+        ListNode cur=head;
+        while(cur!=null){
+            count++;
+            cur=cur.next;
+        }
+        return count;
+    }
     public ListNode rotateRight(ListNode head, int k) {
         int count=countNodes(head);
-        if (count==0 || count==1 || k==0){
+        if(count==0 || count==1 || k==0){
             return head;
         }
-        int rotate=k%(count);
+        int rotate=k%count;
+        int remaining=count-rotate;
         ListNode cur=head;
         while(cur.next!=null){
             cur=cur.next;
         }
         cur.next=head;
-        int pos=1;
-        int remaining=count-rotate;
-        cur=head;
-        while(pos<remaining){
-            cur=cur.next;
-            pos+=1;
+        ListNode temp=head;
+        count=1;
+        while(count<remaining){
+            count++;
+            temp=temp.next;
         }
-        ListNode start=cur.next;
-        cur.next=null;
-        return start;
+        head=temp.next;
+        temp.next=null;
+        return head;
     }
-
-    public int countNodes(ListNode head){
-        int count=0;
-        ListNode cur=head;
-        while(cur!=null){
-            count+=1;
-            cur=cur.next;
-        }
-        return count;
-    }
+    
 }
