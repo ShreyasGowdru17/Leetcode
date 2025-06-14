@@ -8,8 +8,34 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+import java.util.PriorityQueue;
 class Solution {
-    public ListNode mergeList(ListNode head1,ListNode head2){
+    public ListNode mergeKLists(ListNode[] lists){
+        if(lists==null || lists.length==0){
+            return null;
+        }
+        ListNode dummy=new ListNode(-1);
+        ListNode temp=dummy;
+        PriorityQueue<ListNode> heap=new PriorityQueue<>((a,b)->Integer.compare(a.val,b.val));
+
+        for(ListNode list:lists){
+            if(list!=null){
+                heap.offer(list);
+            }
+        }
+
+        while(!heap.isEmpty()){
+            ListNode smallest=heap.poll();
+            temp.next=smallest;
+            temp=temp.next;
+             if(smallest.next!=null){
+                heap.offer(smallest.next);
+             }
+
+        }
+        return dummy.next;
+    }
+    /*public ListNode mergeList(ListNode head1,ListNode head2){
         ListNode temp1=head1;
         ListNode temp2=head2;
         ListNode dummy=new ListNode(-1,null);
@@ -41,5 +67,5 @@ class Solution {
             head=mergeList(head,lists[i]);
         }
         return head;
-    }
+    }*/
 }
