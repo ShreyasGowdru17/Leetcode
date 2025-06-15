@@ -84,11 +84,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0229-majority-element-ii) |
 | [0611-valid-triangle-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -223,4 +227,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
