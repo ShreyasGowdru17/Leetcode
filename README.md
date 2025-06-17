@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1582-design-browser-history](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1582-design-browser-history) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [1582-design-browser-history](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1582-design-browser-history) |
 ## Two Pointers
 |  |
 | ------- |
@@ -144,10 +146,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0146-lru-cache) |
+| [1582-design-browser-history](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1582-design-browser-history) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0394-decode-string) |
+| [1582-design-browser-history](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -228,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0148-sort-list) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
