@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0940-fruit-into-baskets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Union Find
 |  |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0940-fruit-into-baskets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Bit Manipulation
