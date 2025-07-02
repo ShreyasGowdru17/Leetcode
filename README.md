@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0696-count-binary-substrings) |
+| [1078-remove-outermost-parentheses](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0394-decode-string) |
+| [1078-remove-outermost-parentheses](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1582-design-browser-history](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
