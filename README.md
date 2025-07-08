@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0069-sqrtx) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0076-minimum-window-substring](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0151-reverse-words-in-a-string) |
