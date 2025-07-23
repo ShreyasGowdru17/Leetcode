@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0494-target-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0494-target-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 ## Divide and Conquer
 |  |
@@ -392,4 +394,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0239-sliding-window-maximum) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
