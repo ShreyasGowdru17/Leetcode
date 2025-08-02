@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0494-target-sum) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0394-decode-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0394-decode-string) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
