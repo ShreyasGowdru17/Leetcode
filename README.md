@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0289-game-of-life](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0289-game-of-life) |
 | [1036-rotting-oranges](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1036-rotting-oranges) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0079-word-search) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0494-target-sum) |
