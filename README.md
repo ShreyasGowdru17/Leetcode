@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0118-pascals-triangle) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0543-diameter-of-binary-tree) |
