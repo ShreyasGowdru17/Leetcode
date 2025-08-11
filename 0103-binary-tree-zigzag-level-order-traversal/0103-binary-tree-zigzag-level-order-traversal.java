@@ -24,20 +24,19 @@ class Solution {
             int count=queue.size();
             List<Integer> answer=new ArrayList<>();
             while(count>0){
-                if(level%2==0){
-                    TreeNode cur=queue.removeLast();
-                    answer.add(cur.val);
-                    if(cur.left!=null) queue.addFirst(cur.left);
-                    if(cur.right!=null) queue.addFirst(cur.right); 
-                }else{
-                    TreeNode cur=queue.removeFirst();
-                    answer.add(cur.val);
-                    if(cur.right!=null) queue.addLast(cur.right);
-                    if(cur.left!=null) queue.addLast(cur.left);
-                }
+                TreeNode cur=queue.remove();
+                answer.add(cur.val);
+                if(cur.left!=null) queue.add(cur.left);
+                if(cur.right!=null) queue.add(cur.right); 
                 count--;
             }
-            result.add(new ArrayList<>(answer));
+            if(level%2==0){
+                result.add(new ArrayList<>(answer));
+            }
+            else{
+                Collections.reverse(answer);
+                result.add(new ArrayList<>(answer));
+            }
             level++;
         }
         return result;
