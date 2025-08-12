@@ -14,7 +14,7 @@
  * }
  */
  
-class Tuple{
+/*class Tuple{
     TreeNode node;
     int level;
     int vertical;
@@ -23,14 +23,28 @@ class Tuple{
         this.level=level;
         this.vertical=vertical;
     }
-}
+}*/
 class Solution {
+    private void preorder(TreeNode root,int vertical,int level,TreeMap<Integer,TreeMap<Integer,PriorityQueue<Integer>>> map){
+        if(root==null) return;
+
+        if(!map.containsKey(vertical)){
+            map.put(vertical,new TreeMap<>());
+        }
+        if(!map.get(vertical).containsKey(level)){
+            map.get(vertical).put(level,new PriorityQueue<>());
+        }
+        map.get(vertical).get(level).offer(root.val);
+        preorder(root.left,vertical-1,level+1,map);
+        preorder(root.right,vertical+1,level+1,map);
+    }
     
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        Map<Integer,TreeMap<Integer,PriorityQueue<Integer>>> map=new TreeMap<>();
-        Deque<Tuple> queue=new ArrayDeque<>();
-        queue.offer(new Tuple(root,0,0));
-        while(!queue.isEmpty()){
+        TreeMap<Integer,TreeMap<Integer,PriorityQueue<Integer>>> map=new TreeMap<>();
+        /*Deque<Tuple> queue=new ArrayDeque<>();
+        queue.offer(new Tuple(root,0,0));*/
+        preorder(root,0,0,map);
+        /*while(!queue.isEmpty()){
             Tuple tuple=queue.poll();
             TreeNode current=tuple.node;
             int level=tuple.level;
@@ -49,7 +63,7 @@ class Solution {
             if(current.right!=null){
                 queue.offer(new Tuple(current.right,level+1,vertical+1));
             }
-        } 
+        } */
         List<List<Integer>> result=new ArrayList<>();
         for(TreeMap<Integer,PriorityQueue<Integer>> row:map.values()){
             List<Integer> answer=new ArrayList<>();
