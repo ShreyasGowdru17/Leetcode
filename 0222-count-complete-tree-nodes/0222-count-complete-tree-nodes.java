@@ -14,15 +14,28 @@
  * }
  */
 class Solution {
-    int count=0;
-    private void preorder(TreeNode root){
-        if(root==null) return ;
-        count++;
-        preorder(root.left);
-        preorder(root.right);
-    }
-    public int countNodes(TreeNode root) {
-        preorder(root);
+    private int leftHeight(TreeNode root){
+        int count=0;
+        while(root!=null){
+            count++;
+            root=root.left;
+        }
         return count;
+    }
+    private int rightHeight(TreeNode root){
+        int count=0;
+        while(root!=null){
+            count++;
+            root=root.right;
+        }
+        return count;
+    }
+    
+    public int countNodes(TreeNode root) {
+        if(root==null) return 0;
+        int left=leftHeight(root);
+        int right=rightHeight(root);
+        if(left==right) return ((1<<left)-1);
+        else return countNodes(root.left)+countNodes(root.right)+1;
     }
 }
