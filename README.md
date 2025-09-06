@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0800-letter-case-permutation](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0800-letter-case-permutation) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1078-remove-outermost-parentheses](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1321-get-equal-substrings-within-budget](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1321-get-equal-substrings-within-budget) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Greedy
 |  |
@@ -566,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0800-letter-case-permutation) |
+| [1030-smallest-string-starting-from-leaf](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 ## Concurrency
 |  |
 | ------- |
