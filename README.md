@@ -390,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
 |  |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
