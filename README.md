@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0402-remove-k-digits) |
+| [0449-serialize-and-deserialize-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0937-online-stock-span](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0937-online-stock-span) |
 | [1582-design-browser-history](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0538-convert-bst-to-greater-tree) |
@@ -450,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -489,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0437-path-sum-iii) |
+| [0449-serialize-and-deserialize-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -566,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0449-serialize-and-deserialize-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
