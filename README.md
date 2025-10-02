@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0800-letter-case-permutation](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0287-find-the-duplicate-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
