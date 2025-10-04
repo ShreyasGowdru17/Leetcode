@@ -20,8 +20,7 @@ class Solution {
         int value=root.val;
         int left=postOrder(root.left);
         int right=postOrder(root.right);
-        root.val=Math.abs(left-right);
-        count+=root.val;
+        count+=Math.abs(left-right);
         return left+right+value;
 
     }
