@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0441-arranging-coins](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0441-arranging-coins) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Matrix
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0907-koko-eating-bananas](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0907-koko-eating-bananas) |
