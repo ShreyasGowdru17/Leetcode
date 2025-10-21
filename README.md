@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0306-additive-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0306-additive-number) |
 | [0394-decode-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0402-remove-k-digits) |
 | [0449-serialize-and-deserialize-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
@@ -724,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0306-additive-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0306-additive-number) |
 | [0494-target-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
