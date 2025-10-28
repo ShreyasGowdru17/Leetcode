@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0735-asteroid-collision](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0792-binary-search) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0940-fruit-into-baskets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -676,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0658-find-k-closest-elements) |
 ## Merge Sort
 |  |
 | ------- |
