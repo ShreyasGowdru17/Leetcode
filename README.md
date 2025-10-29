@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0287-find-the-duplicate-number) |
