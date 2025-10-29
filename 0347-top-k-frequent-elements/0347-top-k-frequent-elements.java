@@ -12,7 +12,6 @@ class Solution {
         while(!minHeap.isEmpty()){
             result.add(minHeap.poll().key);
         }
-        Collections.sort(result);
         return result.stream().mapToInt(Integer::intValue).toArray();
     }
 }
