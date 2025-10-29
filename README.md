@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0485-max-consecutive-ones](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0506-relative-ranks) |
 | [0611-valid-triangle-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -688,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0658-find-k-closest-elements) |
@@ -717,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Queue
 |  |
@@ -786,4 +793,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
