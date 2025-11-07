@@ -7,23 +7,20 @@ class Solution {
             if(nums[mid]==target){
                 return true;
             }
-            if(nums[low]==nums[high] && nums[high]==nums[mid]){
+            if(nums[low]==nums[high] && nums[low]==nums[mid]){
                 low++;
                 high--;
             }
             else if(nums[low]<=nums[mid]){
                 if(nums[mid]>=target && nums[low]<=target){
                     high=mid-1;
-                }
-                else{
+                }else{
                     low=mid+1;
                 }
-            }
-            else{
+            }else{
                 if(nums[mid]<=target && nums[high]>=target){
                     low=mid+1;
-                }
-                else{
+                }else{
                     high=mid-1;
                 }
             }
