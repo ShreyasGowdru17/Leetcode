@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1813-maximum-erasure-value](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1962-single-threaded-cpu](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2047-find-a-peak-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1962-single-threaded-cpu](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2833-count-zero-request-servers](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2833-count-zero-request-servers) |
 ## Counting
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1014-k-closest-points-to-origin) |
+| [1962-single-threaded-cpu](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1962-single-threaded-cpu) |
 ## Merge Sort
 |  |
 | ------- |
