@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0876-hand-of-straights](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0692-top-k-frequent-words) |
+| [0876-hand-of-straights](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0876-hand-of-straights) |
 | [0948-sort-an-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0621-task-scheduler) |
+| [0876-hand-of-straights](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0876-hand-of-straights) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Stack
