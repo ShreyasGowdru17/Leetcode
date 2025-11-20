@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1813-maximum-erasure-value](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1962-single-threaded-cpu](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2047-find-a-peak-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2047-find-a-peak-element-ii) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0413-arithmetic-slices) |
 | [0494-target-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0494-target-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -695,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1033-broken-calculator) |
 | [1252-break-a-palindrome](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1252-break-a-palindrome) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Stack
