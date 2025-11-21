@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1095-two-city-scheduling](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1014-k-closest-points-to-origin](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1095-two-city-scheduling](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1962-single-threaded-cpu](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -697,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1033-broken-calculator](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1033-broken-calculator) |
+| [1095-two-city-scheduling](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1252-break-a-palindrome](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1252-break-a-palindrome) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2032-largest-odd-number-in-string) |
