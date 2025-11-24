@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1962-single-threaded-cpu](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1962-single-threaded-cpu) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2833-count-zero-request-servers](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2833-count-zero-request-servers) |
 ## Counting
@@ -711,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Stack
 |  |
 | ------- |
