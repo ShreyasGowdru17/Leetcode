@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1962-single-threaded-cpu](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1962-single-threaded-cpu) |
 | [2047-find-a-peak-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2227-sum-of-subarray-ranges](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1962-single-threaded-cpu](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1962-single-threaded-cpu) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2833-count-zero-request-servers](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2833-count-zero-request-servers) |
@@ -720,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
+| [2136-earliest-possible-day-of-full-bloom](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
