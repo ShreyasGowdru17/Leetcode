@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-count-zero-request-servers](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2833-count-zero-request-servers) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2833-count-zero-request-servers](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2833-count-zero-request-servers) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Union Find
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Simulation
 |  |
 | ------- |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
 | [2405-optimal-partition-of-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2405-optimal-partition-of-string) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Stack
 |  |
 | ------- |
