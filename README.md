@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0567-permutation-in-string) |
 | [0606-construct-string-from-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0606-construct-string-from-binary-tree) |
+| [0649-dota2-senate](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0649-dota2-senate) |
 | [0692-top-k-frequent-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0800-letter-case-permutation](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0800-letter-case-permutation) |
@@ -740,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0621-task-scheduler](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0621-task-scheduler) |
+| [0649-dota2-senate](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0649-dota2-senate) |
 | [0876-hand-of-straights](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0890-lemonade-change) |
 | [0917-boats-to-save-people](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0917-boats-to-save-people) |
@@ -892,6 +894,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0649-dota2-senate](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0649-dota2-senate) |
 ## Monotonic Stack
 |  |
 | ------- |
