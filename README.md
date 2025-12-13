@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2833-count-zero-request-servers](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2833-count-zero-request-servers) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Union Find
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2833-count-zero-request-servers](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2833-count-zero-request-servers) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Counting
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Simulation
 |  |
 | ------- |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Design
 |  |
 | ------- |
@@ -769,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3085-minimum-deletions-to-make-string-k-special](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Stack
 |  |
 | ------- |
