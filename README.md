@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-count-zero-request-servers](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2833-count-zero-request-servers) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0494-target-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2833-count-zero-request-servers](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2833-count-zero-request-servers) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Counting
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0800-letter-case-permutation](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0800-letter-case-permutation) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -600,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -775,6 +780,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+| [3068-find-the-maximum-sum-of-node-values](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Stack
