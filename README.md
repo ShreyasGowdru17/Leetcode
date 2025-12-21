@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0985-bag-of-tokens](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0985-bag-of-tokens) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1014-k-closest-points-to-origin](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -768,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0985-bag-of-tokens](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0985-bag-of-tokens) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1033-broken-calculator](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1033-broken-calculator) |
 | [1095-two-city-scheduling](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1252-break-a-palindrome](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1252-break-a-palindrome) |
