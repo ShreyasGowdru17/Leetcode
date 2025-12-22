@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-count-zero-request-servers](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2833-count-zero-request-servers) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -794,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2405-optimal-partition-of-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2405-optimal-partition-of-string) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
