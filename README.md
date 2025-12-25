@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Math
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-count-zero-request-servers](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2833-count-zero-request-servers) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Counting
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 ## Stack
