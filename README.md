@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2540-minimum-common-value](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2338-minimum-consecutive-cards-to-pick-up](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2338-minimum-consecutive-cards-to-pick-up) |
 | [2405-optimal-partition-of-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2405-optimal-partition-of-string) |
+| [2540-minimum-common-value](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2833-count-zero-request-servers](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2833-count-zero-request-servers) |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2540-minimum-common-value](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2047-find-a-peak-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2540-minimum-common-value](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2540-minimum-common-value) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
