@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-two-city-scheduling](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1095-two-city-scheduling) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1390-four-divisors) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1033-broken-calculator](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1033-broken-calculator) |
 | [1323-maximum-69-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1323-maximum-69-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1390-four-divisors](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1390-four-divisors) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2032-largest-odd-number-in-string) |
