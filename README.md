@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1792-maximum-average-pass-ratio](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1792-maximum-average-pass-ratio) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1813-maximum-erasure-value](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1813-maximum-erasure-value) |
