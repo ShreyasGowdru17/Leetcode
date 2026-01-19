@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0169-majority-element) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0141-linked-list-cycle) |
