@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-count-zero-request-servers](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2833-count-zero-request-servers) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [2965-find-missing-and-repeated-values](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3068-find-the-maximum-sum-of-node-values](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3068-find-the-maximum-sum-of-node-values) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2047-find-a-peak-element-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2677-cousins-in-binary-tree-ii](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2833-count-zero-request-servers](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2833-count-zero-request-servers) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2965-find-missing-and-repeated-values](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3085-minimum-deletions-to-make-string-k-special](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3085-minimum-deletions-to-make-string-k-special) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ShreyasGowdru17/Leetcode/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Union Find
