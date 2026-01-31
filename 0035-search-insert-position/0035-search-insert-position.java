@@ -12,10 +12,6 @@ class Solution {
                 left=mid+1;
             }
         }
-
-        if(ans==-1){
-            return nums.length;
-        }
-        return ans;
+        return ans==-1?nums.length:ans;
     }
 }
