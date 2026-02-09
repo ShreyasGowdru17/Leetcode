@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1582-design-browser-history](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1582-design-browser-history) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1675-magnetic-force-between-two-balls) |
