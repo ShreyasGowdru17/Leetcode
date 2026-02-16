@@ -1,35 +1,31 @@
 class Solution {
     public String reverseWords(String s) {
-        int left=0;
-        int right=s.length()-1;
-        String temp="";
-        String ans="";
-        while(left<=right){
-            char ch=s.charAt(left);
-            if(ch!=' '){
-                temp+=ch;
+        StringBuilder sb = new StringBuilder();
+        int n = s.length();
+        int i = n-1;
+        while(i >= 0){
+
+            while(i >= 0 && s.charAt(i) == ' '){
+                i--;
             }
-            else if(ch==' '){
-                if(!temp.equals("")){
-                    if(!ans.equals("")){
-                    ans=temp+" "+ans;
-                    }
-                    else{
-                        ans=temp;
-                    }
-                    temp="";
-                }
+
+            if(i < 0) break;
+
+            int end = i;
+            
+            while(i >= 0 && s.charAt(i) != ' '){
+                i--;
             }
-            left++;
+
+            String word = s.substring(i+1,end+1);
+
+            if(! sb.isEmpty()){
+                sb.append(" ");
+            }
+
+            sb.append(word);
         }
-        if(!temp.equals("")){
-            if(!ans.equals("")){
-                ans=temp+" "+ans;
-            }
-            else{
-                ans=temp;
-            }
-        }
-        return ans;
+
+        return sb.toString();
     }
 }
