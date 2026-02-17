@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1390-four-divisors) |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1432-max-difference-you-can-get-from-changing-an-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1903-largest-odd-number-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2366-minimum-replacements-to-sort-the-array](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2366-minimum-replacements-to-sort-the-array) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2131-longest-palindrome-by-concatenating-two-letter-words](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2131-longest-palindrome-by-concatenating-two-letter-words) |
@@ -856,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1903-largest-odd-number-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2032-largest-odd-number-in-string](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
