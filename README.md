@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0355-design-twitter) |
 | [1582-design-browser-history](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1582-design-browser-history) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0917-boats-to-save-people) |
 | [0985-bag-of-tokens](https://github.com/ShreyasGowdru17/Leetcode/tree/master/0985-bag-of-tokens) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/ShreyasGowdru17/Leetcode/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/ShreyasGowdru17/Leetcode/tree/master/2540-minimum-common-value) |
 ## String
